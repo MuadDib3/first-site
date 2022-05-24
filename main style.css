@@ -1,0 +1,50 @@
+body {
+   background-color: rgb(18, 30, 40);
+   color: aliceblue;
+}
+nav a {
+   color:blanchedalmond;
+   text-decoration: none;
+}
+nav a:hover {
+   color:darkgray;
+}
+.usual_text {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+}
+h1 {
+   text-align: center;
+}
+h1 a {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14;
+   color: aliceblue;
+   text-decoration: none;
+}
+h2 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14;
+   text-align: center;
+}
+nav ul {
+   text-align: center;
+   color: aliceblue;
+}
+nav li {
+   display: inline-block;
+   margin-right: 10px;
+   padding: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 12;
+   color: aliceblue;
+}
+section {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14;
+   text-align: center; 
+}
+section ul {
+   list-style-type: none;
+   text-align: center;
+}
